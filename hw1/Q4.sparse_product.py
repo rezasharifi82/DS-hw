@@ -33,3 +33,7 @@ b=[ [4,2,5],
     [3,1,1]
 ]
 sparse_product(a,b)
+#Output:  absolutely it's not sparse
+# 8 0
+# 7 3
+# 2 2
